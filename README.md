@@ -1,3 +1,13 @@
+<!--
+SPDX-FileCopyrightText: 2023 Rivos Inc.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+# Zisslpcfi SW
+
+[![REUSE status](https://api.reuse.software/badge/github.com/rivosinc/Zisslpcfi-sw)](https://api.reuse.software/info/github.com/rivosinc/Zisslpcfi-sw)
+
+
 This is a master repo to get all the different software bits to enable Zisslpcfi [^1] riscv extension:
 
 - Qemu : https://github.com/deepak0414/qemu/tree/gh_Zisslpcfi-0.1

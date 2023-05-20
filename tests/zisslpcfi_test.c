@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Rivos Inc.
+//
+// SPDX-License-Identifier: Apache-2.0
+
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
